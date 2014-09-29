@@ -1,0 +1,51 @@
+/*Lets make the web more beautiful*/
+
+body
+{
+background-image: url("background03.jpg");
+text-align: center;
+}
+
+	table, th, td {
+		border: 2px solid white;
+	}
+
+	table {
+    width: 100%;
+	color: white;
+}
+
+		th {
+			height: 50px;
+			background-color: white;
+			color: black;
+		}
+
+
+h1
+{
+border-style: inset;
+font-size: 100px;
+font-family: Snap ITC;
+color: yellow;
+}
+
+h3
+{
+border-style: dotted solid;
+border-width: 5px;
+border-radius: 25px;
+border-bottom-width: 15px;
+padding: 10px 25px; 
+width: 300px;
+font-size: 50px;
+font-family: Kristen ITC;
+color:white;
+margin:0 auto;
+}
+
+p
+{
+font-family: Comic Sans MS;
+color: white;
+}
